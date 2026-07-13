@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odd-number {
+    background-color: rgb(255, 182, 193);
+    font-family: 'verdana', 'DejaVu Sans', sans-serif;
+}
+
+.even {
+    color: aqua;
+    font-size: 36px;
+}
+
+.font24 {
+    font-size: 24px;
+}
+
+#dif-odd {
+    background-color: green;
+    font-size: 24px;
+    font-weight: 600;
+}
