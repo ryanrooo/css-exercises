@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+
+.black-box {
+    background-color: black;
+    color: white;
+}
+
+.yellow-box {
+    background-color: yellow;
+    color:  black;
+}
+
+.black-box, 
+.yellow-box {
+    font-size: 28px;
+    font-family: 'Helena' 'Times New Roman' sans-serif;
+}
